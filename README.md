@@ -1,3 +1,3 @@
 # chess
 
-This repository contains my python implementation of the chess boardgame
+This repository contains my python implementation of chess  
