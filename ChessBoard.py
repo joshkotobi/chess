@@ -73,6 +73,7 @@ class ChessBoard(object):
             for loc in location_list:
                 pieces.append(piece_class([row, loc], color, board))
             return pieces
+
     def castle(self):
         pass
 
